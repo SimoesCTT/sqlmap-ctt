@@ -25,7 +25,7 @@ Installation
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/consciousness-project/sqlmap-ctt.git
+   git clone https://github.com/SimoesCTT/sqlmap-ctt/
    cd sqlmap-ctt
    ```
 
