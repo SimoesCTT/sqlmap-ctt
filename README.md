@@ -156,4 +156,5 @@ Contributions are welcome! Please submit pull requests or issues to the GitHub r
 
 Contact
 -------
-For questions or support, contact Americo Simoes at developer@consciousness.ai.
+For questions or support, contact Americo Simoes at anexsimoes@gmail.com
+
